@@ -1,5 +1,5 @@
 {
-  "name": "react-native-cardview",
+  "name": "react-native-cardinfolink-cardview",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,12 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/TracyEminem/RNCardView.git"
+  },
+  "author": "ycj123456jj",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
